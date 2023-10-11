@@ -1,3 +1,5 @@
-# Cryptography-LS
-Project
-For running Vigenere Decryption, open the terminal and run "python3 script.py'. Then you will get a prompt in the terminal to add your ciphertext. First copy and paste your cipher text here and the decrypted plain text will be the output.
+# Cryptographic Analysis and Implementation Summer ’23
+Self Project
+• Analyzed modern cryptography schemes including public-key cryptosystems and symmetric-key algorithms
+• Wrote a script to print the plaintext and key using frequency analysis for given Vigenère-encrypted ciphertext
+• Generate the SHA-256 digital signature from a file using python and further encrypted it using RSA
